@@ -1,0 +1,2102 @@
+Micro-Batch Pipeline -> ORG
+Yanping Huang Youlong -> PERSON
+Cheng Ankur Bapna -> PERSON
+Orhan Firat Mia Xu Chen Dehao Chen -> PERSON
+HyoukJoong Lee Jiquan Ngiam Quoc V. Le -> PERSON
+Yonghui Wu Zhifeng Chen -> PERSON
+GPipe -> ORG
+GPipe -> ORG
+GPipe -> ORG
+two -> CARDINAL
+557-million -> MONEY
+AmoebaNet -> ORG
+84.4% -> PERCENT
+Multilingual Neural Machine Translation -> ORG
+6-billion -> MONEY
+128 -> CARDINAL
+Transformer -> ORG
+100 -> CARDINAL
+the last decade -> DATE
+ImageNet -> ORG
+1a -> CARDINAL
+1b -> CARDINAL
+1 -> CARDINAL
+2 -> CARDINAL
+3 -> CARDINAL
+4 -> CARDINAL
+GPU -> ORG
+TPU -> ORG
+9102 -> CARDINAL
+52 -> CARDINAL
+5v56960.1181 -> CARDINAL
+1 -> CARDINAL
+ImageNet -> ORG
+2012 -> DATE
+5 -> CARDINAL
+recent years -> DATE
+6 -> CARDINAL
+7 -> DATE
+8 -> DATE
+9 -> CARDINAL
+10 -> DATE
+11 -> DATE
+12 -> CARDINAL
+36× -> CARDINAL
+84.4% -> PERCENT
+550 -> CARDINAL
+AmoebaNet -> ORG
+BLEU -> ORG
+128 -> CARDINAL
+Transformer -> ORG
+GPipe -> ORG
+GPipe -> ORG
+13 -> CARDINAL
+14 -> CARDINAL
+GPipe -> ORG
+first -> ORDINAL
+GPipe -> ORG
+GPipe -> ORG
+GPipe -> ORG
+AmoebaNet -> ORG
+480 -> CARDINAL
+480 -> CARDINAL
+ImageNet -> ORG
+2012 -> DATE
+557 million -> CARDINAL
+84.4% -> PERCENT
+128 -> CARDINAL
+6-billion -> MONEY
+Transformer -> ORG
+103 -> CARDINAL
+102 -> CARDINAL
+English -> LANGUAGE
+350-million -> QUANTITY
+15 -> CARDINAL
+100 -> CARDINAL
+2 -> CARDINAL
+GPipe -> ORG
+Lingvo -> NORP
+16 -> CARDINAL
+GPipe -> ORG
+17 -> CARDINAL
+18 -> DATE
+19 -> CARDINAL
+2 -> CARDINAL
+2 -> CARDINAL
+four -> CARDINAL
+F -> PRODUCT
+F -> PRODUCT
+k+1 k -> GPE
+2.1 -> CARDINAL
+L -> ORG
+the union of w -> ORG
+F -> PRODUCT
+F -> PRODUCT
+Σj -> PERSON
+GPipe -> ORG
+2.2 -> CARDINAL
+GPipe -> ORG
+GPipe -> ORG
+first -> ORDINAL
+K -> ORG
+M -> ORG
+2c -> CARDINAL
+20 -> CARDINAL
+21 -> CARDINAL
+3 -> CARDINAL
+AmoebaNet -> ORG
+GPipe -> ORG
+GPipe -> ORG
+Pipeline-k -> ORG
+GPipe -> ORG
+AmoebaNet -> ORG
+AmoebaNet -> ORG
+Transformer-L: Transformer -> ORG
+2048 -> DATE
+8192 -> DATE
+12 -> CARDINAL
+8 -> CARDINAL
+Pipeline-2 Pipeline-4 Pipeline-8
+ -> PERSON
+18 -> CARDINAL
+208 -> CARDINAL
+18 -> CARDINAL
+416 -> CARDINAL
+18 -> CARDINAL
+544 -> CARDINAL
+36 -> CARDINAL
+544 -> CARDINAL
+72 -> DATE
+512 -> CARDINAL
+# -> CARDINAL
+Model Parameters 82M 318M 542M 1.05B 1.8B -> ORG
+1.05 -> CARDINAL
+3.8GB 6.45GB -> PRODUCT
+12.53 -> CARDINAL
+24.62 -> CARDINAL
+8.11 -> CARDINAL
+15.21 -> CARDINAL
+26.24 -> CARDINAL
+16 -> CARDINAL
+# -> CARDINAL
+Model Parameters 282.2M 785.8M -> ORG
+11.7 -> CARDINAL
+8.8 -> CARDINAL
+59.5 -> CARDINAL
+235.1 -> CARDINAL
+3.15 -> CARDINAL
+6.4 -> CARDINAL
+50.9 -> CARDINAL
+199.9 -> CARDINAL
+2.3 -> CARDINAL
+GPipe -> ORG
+14 -> CARDINAL
+F -> PRODUCT
+N -> ORG
+K M M
+micro-batch -> ORG
+L -> ORG
+2c -> CARDINAL
+K−1 -> ORG
+GPipe -> ORG
+2c -> CARDINAL
+3 -> CARDINAL
+two -> CARDINAL
+12 -> CARDINAL
+Transformer -> ORG
+15 -> CARDINAL
+GPipe -> ORG
+Table 1 -> LAW
+AmoebaNet -> ORG
+Cloud TPUv2s -> PERSON
+8 -> CARDINAL
+224 -> CARDINAL
+128 -> CARDINAL
+GPipe -> ORG
+82M -> CARDINAL
+AmoebaNet -> ORG
+GPipe -> ORG
+6.26 -> CARDINAL
+3.46 -> CARDINAL
+318M -> CARDINAL
+AmoebaNet -> ORG
+1.8 billion -> CARDINAL
+8 -> CARDINAL
+25x -> CARDINAL
+4 -> CARDINAL
+GPipe -> ORG
+AmoebaNet -> ORG
+Transformer -> ORG
+Cloud -> PERSON
+16 -> CARDINAL
+32k -> DATE
+1024 -> DATE
+32 -> CARDINAL
+2048 -> CARDINAL
+8192 -> DATE
+32 -> CARDINAL
+2.7× -> DATE
+128 -> CARDINAL
+GPipe -> ORG
+Transformer -> ORG
+83.9B -> CARDINAL
+298× -> CARDINAL
+AmoebaNet -> ORG
+Transformer -> ORG
+AmoebaNet -> ORG
+18 -> CARDINAL
+256 -> CARDINAL
+GPipe -> ORG
+# of partitions -> MONEY
+# -> CARDINAL
+Table 2 -> PRODUCT
+linear -> ORG
+Transformer -> ORG
+K. Batch -> PERSON
+3.5× -> CARDINAL
+four -> CARDINAL
+TPU AmoebaNet Transformer
+Furthermore -> ORG
+2 4 -> CARDINAL
+1 1 -> CARDINAL
+1.26 -> CARDINAL
+1.72 -> CARDINAL
+3.2 -> CARDINAL
+AmoebaNet -> ORG
+32 -> CARDINAL
+1.21 -> DATE
+3.48 -> CARDINAL
+3.4 6.3 -> CARDINAL
+1 -> CARDINAL
+only one -> CARDINAL
+GPipe -> ORG
+NVLinks -> ORG
+32 -> DATE
+Table 3 -> LAW
+2.7× -> CARDINAL
+AmoebaNet -> ORG
+18 -> CARDINAL
+128 -> CARDINAL
+2 -> CARDINAL
+8 -> CARDINAL
+24 -> CARDINAL
+Transformer -> ORG
+3.3×. -> CARDINAL
+GPU AmoebaNet Transformer -> ORG
+GPipe -> ORG
+2 4 -> CARDINAL
+32 -> CARDINAL
+first -> ORDINAL
+GPipe -> ORG
+AmoebaNet -> ORG
+AmoebaNet -> ORG
+480 -> CARDINAL
+557 -> CARDINAL
+AmoebaNet-B(18 -> ORG
+512 -> CARDINAL
+ImageNet -> ORG
+2012 -> DATE
+12 -> CARDINAL
+4 -> CARDINAL
+84.4% -> PERCENT
+97% -> PERCENT
+22 -> CARDINAL
+23 -> CARDINAL
+ImageNet -> ORG
+5 -> CARDINAL
+AmoebaNet -> ORG
+18 -> CARDINAL
+512 -> CARDINAL
+ImageNet -> ORG
+5 -> CARDINAL
+Real et al -> PERSON
+12 -> CARDINAL
+Cubuk -> PERSON
+26 -> CARDINAL
+27 -> CARDINAL
+85.4% -> PERCENT
+Ngiam et al -> PERSON
+28 -> CARDINAL
+Dataset -> ORG
+# Train # -> MONEY
+1,281,167 50,000 -> CARDINAL
+84.4 83.9 -> PRODUCT
+12 -> CARDINAL
+26 -> CARDINAL
+50,000 10,000 -> CARDINAL
+26 -> CARDINAL
+Stanford -> ORG
+196 -> CARDINAL
+26 -> CARDINAL
+Oxford Pets -> ORG
+3,680 -> CARDINAL
+3,369 -> CARDINAL
+37 -> CARDINAL
+29 -> CARDINAL
+75,750 25,250 -> CARDINAL
+101 93.0 90.4∗ -> PRODUCT
+30 -> CARDINAL
+31 -> CARDINAL
+32 -> CARDINAL
+ImageNet -> ORG
+480 -> CARDINAL
+24 -> CARDINAL
+ImageNet -> ORG
+Table 4 -> DATE
+5 -> CARDINAL
+1% -> PERCENT
+8.7% -> PERCENT
+Kornblith et al -> PERSON
+25 -> CARDINAL
+ImageNet -> ORG
+5 -> CARDINAL
+GPipe -> ORG
+Natural Language
+Processing -> ORG
+NLP -> ORG
+NMT -> ORG
+NLP -> ORG
+33 -> CARDINAL
+15 -> DATE
+34 -> DATE
+35 -> DATE
+36 -> CARDINAL
+GPipe -> ORG
+NMT -> ORG
+102 -> CARDINAL
+English -> LANGUAGE
+25 billion -> CARDINAL
+104 -> CARDINAL
+109 -> CARDINAL
+37 -> CARDINAL
+first -> ORDINAL
+NMT -> ORG
+between more than 100 -> CARDINAL
+Transformer -> ORG
+15 -> CARDINAL
+two -> CARDINAL
+GPipe -> ORG
+Shazeer -> ORG
+34 -> CARDINAL
+400M -> CARDINAL
+Transformer Big -> PERSON
+6, 8192 -> DATE
+Chen et al -> PERSON
+35 -> CARDINAL
+64k -> CARDINAL
+3 -> CARDINAL
+24, 8192 -> DATE
+16 -> DATE
+12, 16384 -> DATE
+32 -> DATE
+3B- -> CARDINAL
+32, 16384 -> DATE
+32 -> DATE
+6B -> CARDINAL
+64, 16384 -> DATE
+32 -> DATE
+BERT2 -> NORP
+3 -> CARDINAL
+12, 16384 -> DATE
+32 -> DATE
+24, 8192 -> DATE
+32 -> DATE
+32, 16384 -> DATE
+32 -> DATE
+64, 16384 -> DATE
+32 -> DATE
+2 -> CARDINAL
+4 -> DATE
+8 -> DATE
+16 -> CARDINAL
+1 -> CARDINAL
+Transformer -> ORG
+1024 -> DATE
+2https://github.com/google-research/bert/blob/master/multilingual.md -> CARDINAL
+6 -> CARDINAL
+3 -> CARDINAL
+400 -> CARDINAL
+6B -> CARDINAL
+1.3B to 3B -> CARDINAL
+3 -> CARDINAL
+Transformer -> ORG
+400M
+params -> QUANTITY
+6, 8192 -> DATE
+16 -> DATE
+24, 8192 -> DATE
+16 -> CARDINAL
+64, 16384 -> DATE
+32 -> DATE
+Depth-Width Trade -> ORG
+1.3B -> CARDINAL
+12, 16384 -> DATE
+32 -> DATE
+1.3B -> CARDINAL
+24, 8192 -> DATE
+16 -> CARDINAL
+two -> CARDINAL
+3 -> CARDINAL
+3 -> CARDINAL
+400 -> CARDINAL
+a few thousand -> CARDINAL
+two -> CARDINAL
+Following Zhang -> PERSON
+38 -> CARDINAL
+two -> CARDINAL
+5 -> CARDINAL
+Batch Size -> PERSON
+Batch Size -> PERSON
+260 -> CARDINAL
+K 1M 4M
+40 -> ORG
+BLEU -> ORG
+30.92 31.86 32.71 -> CARDINAL
+NLL -> ORG
+2.58 -> CARDINAL
+2.46 -> CARDINAL
+260 -> CARDINAL
+7 -> CARDINAL
+8 -> CARDINAL
+4 -> CARDINAL
+BLEU -> ORG
+German -> NORP
+NMT -> ORG
+41 -> CARDINAL
+5 -> CARDINAL
+6 -> CARDINAL
+GPipe -> ORG
+42 -> CARDINAL
+43 -> DATE
+44 -> DATE
+45 -> CARDINAL
+Single Program Multiple Data -> ORG
+Mesh-Tensorflow -> ORG
+34 -> CARDINAL
+SPMD -> ORG
+the Single Instruction Multiple
+Data -> ORG
+AllReduce -> ORG
+SPMD -> ORG
+SPMD -> ORG
+46 -> CARDINAL
+47 -> CARDINAL
+48 -> CARDINAL
+49 -> CARDINAL
+PipeDream -> ORG
+GPipe -> ORG
+SPMD -> ORG
+GPipe -> ORG
+GPipe -> ORG
+3One -> CARDINAL
+8 -> CARDINAL
+BatchNorm -> ORG
+GPipe -> ORG
+three -> CARDINAL
+GPipe -> ORG
+1 -> CARDINAL
+GPipe -> ORG
+linear -> ORG
+2 -> CARDINAL
+GPipe -> ORG
+3 -> CARDINAL
+1 -> CARDINAL
+Bryan McCann -> PERSON
+James Bradbury -> PERSON
+Caiming Xiong -> PERSON
+Richard Socher -> PERSON
+CoRR -> ORG
+2017 -> DATE
+2 -> CARDINAL
+Matthew Peters -> PERSON
+Mark Neumann -> PERSON
+Mohit Iyyer -> PERSON
+Matt Gardner -> PERSON
+Christopher Clark -> PERSON
+Kenton Lee -> PERSON
+Luke Zettlemoyer -> PERSON
+ACL -> GPE
+2018 -> DATE
+3 -> CARDINAL
+Jacob Devlin -> PERSON
+Ming-Wei Chang -> PERSON
+Kenton Lee -> PERSON
+Kristina Toutanova -> PERSON
+Bert -> PERSON
+2018 -> DATE
+4 -> CARDINAL
+Jeff Wu -> PERSON
+Rewon Child -> PERSON
+David Luan -> PERSON
+Dario Amodei -> PERSON
+2019 -> DATE
+5 -> CARDINAL
+Jia Deng -> PERSON
+Wei Dong -> PERSON
+Richard Socher -> PERSON
+Li-Jia Li -> ORG
+Kai Li -> PERSON
+Li Fei-Fei -> PERSON
+IEEE -> ORG
+2009 -> DATE
+6 -> CARDINAL
+Christian Szegedy -> PERSON
+Wei Liu -> PERSON
+Yangqing Jia -> ORG
+Pierre Sermanet -> PERSON
+1–9, 2015 -> DATE
+7 -> CARDINAL
+Christian Szegedy -> PERSON
+Vincent Vanhoucke -> PERSON
+Sergey Ioffe -> PERSON
+Jon Shlens -> PERSON
+Zbigniew Wojna -> PERSON
+2818–2826, 2016 -> DATE
+8 -> CARDINAL
+Xiangyu Zhang -> PERSON
+Shaoqing Ren -> PERSON
+Jian Sun -> PERSON
+European -> NORP
+630–645 -> CARDINAL
+2016 -> DATE
+9 -> CARDINAL
+Saining Xie -> PERSON
+Ross Girshick -> PERSON
+Dollár -> PERSON
+Zhuowen Tu -> PERSON
+Kaiming -> PERSON
+2017 -> DATE
+10 -> CARDINAL
+Jie Hu -> PERSON
+Li Shen -> PERSON
+Gang Sun -> PERSON
+2018 -> DATE
+11 -> CARDINAL
+Barret Zoph -> PERSON
+Vijay Vasudevan -> PERSON
+Jonathon Shlens -> PERSON
+Quoc V Le -> ORG
+2018 -> DATE
+12 -> CARDINAL
+Alok Aggarwal -> PERSON
+Yanping Huang -> PERSON
+Quoc V Le -> PERSON
+2018 -> DATE
+13 -> CARDINAL
+Andrea Walther -> PERSON
+Algorithm 799: revolve -> PERSON
+Mathematical Software -> ORG
+TOMS -> ORG
+26(1):19–45 -> CARDINAL
+2000 -> DATE
+14 -> CARDINAL
+Bing Xu -> PERSON
+Chiyuan Zhang -> PERSON
+Carlos Guestrin -> PERSON
+2016 -> DATE
+15 -> CARDINAL
+Ashish -> NORP
+Noam Shazeer -> PERSON
+Niki Parmar -> ORG
+Jakob Uszkoreit -> PERSON
+Llion Jones -> ORG
+Aidan N Gomez -> PERSON
+Łukasz Kaiser -> PERSON
+Illia Polosukhin -> ORG
+Neurips -> GPE
+5998–6008 -> CARDINAL
+2017 -> DATE
+16 -> CARDINAL
+Jonathan Shen -> PERSON
+Patrick Nguyen -> PERSON
+Yonghui Wu -> PERSON
+Zhifeng Chen -> PERSON
+Mia Xu Chen -> PERSON
+Ye Jia -> PERSON
+Kannan -> GPE
+Tara Sainath -> PERSON
+Yuan Cao -> PERSON
+Chung-Cheng Chiu -> PERSON
+al -> PERSON
+2019 -> DATE
+9 -> CARDINAL
+17 -> CARDINAL
+Yangqing Jia -> WORK_OF_ART
+Evan Shelhamer -> PERSON
+Jeff Donahue -> PERSON
+Sergey Karayev -> PERSON
+Jonathan Long -> PERSON
+Ross Girshick -> PERSON
+Sergio Guadarrama -> PERSON
+Trevor Darrell -> PERSON
+Multimedia -> ORG
+675–678 -> CARDINAL
+ACM -> ORG
+2014 -> DATE
+18 -> CARDINAL
+Mu Li -> PERSON
+Yutian Li -> PERSON
+Min Lin -> PERSON
+Naiyan Wang -> PERSON
+Minjie Wang -> PERSON
+Tianjun Xiao -> PERSON
+Bing Xu -> PERSON
+Chiyuan Zhang -> PERSON
+Zheng Zhang -> PERSON
+2015 -> DATE
+19 -> CARDINAL
+Adam Paszke -> PERSON
+Sam Gross -> PERSON
+Soumith Chintala -> PERSON
+Gregory Chanan -> PERSON
+Edward Yang -> PERSON
+Zachary DeVito -> PERSON
+Zeming Lin -> PERSON
+Alban Desmaison -> PERSON
+Luca Antiga -> PERSON
+Adam Lerer -> PERSON
+2017 -> DATE
+20 -> CARDINAL
+Christian Szegedy -> PERSON
+2015 -> DATE
+21 -> CARDINAL
+Chao Peng -> PERSON
+Tete Xiao -> PERSON
+Zeming Li -> PERSON
+Yuning Jiang -> PERSON
+Xiangyu Zhang -> PERSON
+Kai Jia -> PERSON
+Gang Yu -> PERSON
+Jian
+Sun -> PERSON
+7, 2017 -> DATE
+22 -> CARDINAL
+Ali Sharif Razavian -> PERSON
+Hossein Azizpour -> PERSON
+Josephine Sullivan -> PERSON
+Stefan Carlsson -> PERSON
+Cnn -> ORG
+512–519 -> CARDINAL
+2014 -> DATE
+23 -> CARDINAL
+Evan Shelhamer -> PERSON
+Jonathan Long -> PERSON
+Trevor Darrell -> PERSON
+IEEE Trans -> ORG
+Mach -> PERSON
+Intell -> PERSON
+39(4):640–651 -> CARDINAL
+2017 -> DATE
+24 -> CARDINAL
+Graham W Taylor -> PERSON
+2017 -> DATE
+25 -> CARDINAL
+Simon Kornblith -> PERSON
+Jonathon Shlens -> PERSON
+Quoc V. Le -> PERSON
+CoRR -> ORG
+2018 -> DATE
+26 -> CARDINAL
+Ekin D Cubuk -> ORG
+Barret Zoph -> PERSON
+Dandelion Mane -> ORG
+Vijay Vasudevan -> PERSON
+Quoc V Le -> ORG
+2018 -> DATE
+27 -> CARDINAL
+Dhruv Mahajan -> PERSON
+Ross Girshick -> PERSON
+Vignesh Ramanathan -> PERSON
+Manohar Paluri -> PERSON
+Yixuan Li -> PERSON
+Ashwin Bharambe -> PERSON
+Laurens van der Maaten -> PERSON
+2018 -> DATE
+28 -> CARDINAL
+Jiquan Ngiam -> PERSON
+Daiyi Peng -> PERSON
+Vijay Vasudevan -> PERSON
+Simon Kornblith -> PERSON
+Quoc Le -> PERSON
+Ruoming Pang -> PERSON
+2018 -> DATE
+29 -> CARDINAL
+Yuxin Peng -> PERSON
+Xiangteng -> PERSON
+Junjie Zhao -> PERSON
+27(3):1487–1500 -> CARDINAL
+2018 -> DATE
+30 -> CARDINAL
+Yin Cui -> PERSON
+Yang Song -> PERSON
+Chen Sun -> PERSON
+Andrew Howard -> PERSON
+Serge Belongie -> PERSON
+2018 -> DATE
+31 -> CARDINAL
+Fisher Yu -> PERSON
+Dequan Wang -> PERSON
+Trevor Darrell -> PERSON
+2018 -> DATE
+32 -> CARDINAL
+Xiu-Shen Wei -> PERSON
+Chen-Wei Xie -> PERSON
+Jianxin Wu -> PERSON
+Chunhua Shen -> PERSON
+76:704–714 -> CARDINAL
+2018 -> DATE
+33 -> CARDINAL
+Jonas Gehring -> PERSON
+Michael Auli -> PERSON
+David Grangier -> PERSON
+Denis Yarats -> PERSON
+Yann N. Dauphin -> PERSON
+CoRR -> ORG
+abs/1705.03122, 2017 -> DATE
+34 -> CARDINAL
+Noam Shazeer -> PERSON
+Youlong Cheng -> PERSON
+Niki Parmar -> PERSON
+Dustin Tran -> PERSON
+Ashish Vaswani -> PERSON
+Penporn Koanan- -> ORG
+Peter Hawkins -> PERSON
+HyoukJoong Lee -> PERSON
+Mingsheng Hong -> PERSON
+Cliff Young -> PERSON
+Neurips -> GPE
+10414–10423, 2018 -> DATE
+35 -> CARDINAL
+Mia Xu Chen -> PERSON
+Orhan Firat -> PERSON
+Ankur Bapna -> PERSON
+Melvin Johnson -> PERSON
+Wolfgang Macherey -> PERSON
+George Foster -> PERSON
+Llion Jones -> ORG
+Niki Parmar -> ORG
+Mike Schuster -> PERSON
+Zhifeng Chen -> PERSON
+Yonghui Wu -> PERSON
+Macduff Hughes -> PERSON
+CoRR -> ORG
+2018 -> DATE
+36 -> CARDINAL
+Felix Wu -> PERSON
+Angela Fan -> PERSON
+Alexei Baevski -> PERSON
+Yann N. Dauphin -> PERSON
+Michael Auli -> PERSON
+CoRR -> ORG
+abs/1901.10430 -> GPE
+2019 -> DATE
+37 -> CARDINAL
+Naveen Arivazhagan -> PERSON
+Ankur Bapna -> PERSON
+Orhan Firat -> PERSON
+Dmitry Lepikhin -> PERSON
+Melvin Johnson -> PERSON
+Maxim
+Krikun -> PERSON
+Mia Xu Chen -> PERSON
+Yuan Cao -> PERSON
+George Foster -> PERSON
+Colin Cherry -> PERSON
+2019 -> DATE
+10 -> CARDINAL
+38 -> CARDINAL
+Hongyi Zhang -> PERSON
+Tengyu Ma -> PERSON
+Fixup -> ORG
+2019 -> DATE
+39 -> CARDINAL
+Nitish Keskar -> PERSON
+Jorge Nocedal -> PERSON
+Mikhail Smelyanskiy -> PERSON
+Ping T.P. Tang -> PERSON
+minima -> PRODUCT
+CoRR -> ORG
+2016 -> DATE
+40 -> CARDINAL
+Samuel L. Smith -> PERSON
+Pieter-Jan Kindermans -> DATE
+Quoc V. Le -> PERSON
+CoRR -> ORG
+abs/1711.00489 -> GPE
+2017 -> DATE
+41 -> CARDINAL
+Myle Ott -> PERSON
+Sergey Edunov -> PERSON
+David Grangier -> PERSON
+Michael Auli -> PERSON
+1–9 -> CARDINAL
+Belgium -> GPE
+Brussels -> GPE
+October 2018 -> DATE
+42 -> CARDINAL
+Alex Krizhevsky -> PERSON
+One -> CARDINAL
+arXiv:1404.5997, 2014 -> DATE
+43 -> CARDINAL
+Seunghak Lee -> PERSON
+Jin Kyu Kim -> PERSON
+Xun Zheng -> PERSON
+Qirong Ho -> PERSON
+Eric P Xing -> PERSON
+Neurips -> GPE
+2834–2842, 2014 -> DATE
+44 -> CARDINAL
+Hieu Pham -> PERSON
+Quoc V Le -> PERSON
+Benoit Steiner -> PERSON
+Rasmus Larsen -> PERSON
+Yuefeng Zhou -> PERSON
+Naveen Kumar -> PERSON
+Mohammad Norouzi -> PERSON
+Jeff Dean -> PERSON
+2017 -> DATE
+45 -> CARDINAL
+Jeffrey Dean -> PERSON
+Greg Corrado -> PERSON
+Rajat Monga -> PERSON
+Kai Chen -> PERSON
+Matthieu Devin -> PERSON
+Mark Mao -> PERSON
+Marc -> PERSON
+Ranzato -> PERSON
+Andrew Senior -> PERSON
+Paul Tucker -> PERSON
+Ke Yang -> PERSON
+Quoc V. Le -> PERSON
+Andrew Y. Ng -> PERSON
+F. Pereira -> GPE
+C. J. C. Burges -> PERSON
+L. Bottou -> PERSON
+K. Q. Weinberger -> PERSON
+Neurips 25 -> EVENT
+1223–1231 -> CARDINAL
+Curran Associates, Inc. -> ORG
+2012 -> DATE
+46 -> CARDINAL
+A. Petrowski -> PERSON
+G. Dreyfus -> PERSON
+C. Girault -> PERSON
+Neural Networks -> ORG
+4(6):970–981 -> DATE
+Nov 1993 -> DATE
+47 -> CARDINAL
+Yonghui Wu -> PERSON
+Mike Schuster -> PERSON
+Zhifeng Chen -> PERSON
+Quoc V Le -> PERSON
+Mohammad Norouzi -> PERSON
+Wolfgang
+Macherey -> PERSON
+Maxim Krikun -> PERSON
+Yuan Cao -> PERSON
+Qin Gao -> PERSON
+Klaus Macherey -> PERSON
+Google -> ORG
+the Association for Computational Linguistics -> ORG
+2017 -> DATE
+48 -> CARDINAL
+Aaron Harlap -> PERSON
+Deepak Narayanan -> PERSON
+Amar Phanishayee -> PERSON
+Vivek Seshadri -> PERSON
+Nikhil Devanur -> PERSON
+Greg
+Ganger -> PERSON
+Phil Gibbons -> PERSON
+2018 -> DATE
+49 -> CARDINAL
+Mu Li -> PERSON
+David G Andersen -> PERSON
+Jun Woo Park -> PERSON
+Alexander J Smola -> PERSON
+Amr Ahmed -> PERSON
+Vanja Josifovski -> PERSON
+James Long -> PERSON
+Eugene J Shekita -> PERSON
+Bor-Yiing Su -> ORG
+14 -> CARDINAL
+583–598, 2014 -> DATE
+11 -> CARDINAL
+matan-90.pdf -> CARDINAL
+NLP -> ORG
+one -> CARDINAL
+GloVe -> GPE
+LLM -> ORG
+LLM -> ORG
+CBOW -> ORG
+GloVe -> PERSON
+FastText -> ORG
+Language Models -> ORG
+BERT -> ORG
+Generative Pre-trained -> PERSON
+GPT -> ORG
+OpenAI -> ORG
+today -> DATE
+GPT -> ORG
+Sentence-BERT -> ORG
+BERT -> ORG
+FAQ -> ORG
+InferSent -> ORG
+max -> PERSON
+NLI -> ORG
+InferSent -> ORG
+Google -> ORG
+Deep Averaging Network -> WORK_OF_ART
+DAN -> ORG
+Generative Pre-trained -> PERSON
+Transformer 3 -> ORG
+BERT -> ORG
+Combined Approaches
+- Hybrid Models -> PERSON
+NLP -> ORG
+BERT -> ORG
+GPT-3 -> ORG
+LLM -> ORG
+hundreds to thousands -> CARDINAL
+non-zero -> NORP
+one -> CARDINAL
+zero -> CARDINAL
+Chatbots -> PERSON
+Legal and Compliance – Contract -> WORK_OF_ART
+RAG -> PERSON
+fed -> ORG
+AI Pipelines
+LLM Embeddings -> ORG
+AI -> GPE
+three -> CARDINAL
+AI -> GPE
+one -> CARDINAL
+LLM -> ORG
+Micro-Batch Pipeline -> ORG
+Yanping Huang Youlong -> PERSON
+Cheng Ankur Bapna -> PERSON
+Orhan Firat Mia Xu Chen Dehao Chen -> PERSON
+HyoukJoong Lee Jiquan Ngiam Quoc V. Le -> PERSON
+Yonghui Wu Zhifeng Chen -> PERSON
+GPipe -> ORG
+GPipe -> ORG
+GPipe -> ORG
+two -> CARDINAL
+557-million -> MONEY
+AmoebaNet -> ORG
+84.4% -> PERCENT
+Multilingual Neural Machine Translation -> ORG
+6-billion -> MONEY
+128 -> CARDINAL
+Transformer -> ORG
+100 -> CARDINAL
+the last decade -> DATE
+ImageNet -> ORG
+1a -> CARDINAL
+1b -> CARDINAL
+1 -> CARDINAL
+2 -> CARDINAL
+3 -> CARDINAL
+4 -> CARDINAL
+GPU -> ORG
+TPU -> ORG
+9102 -> CARDINAL
+52 -> CARDINAL
+5v56960.1181 -> CARDINAL
+1 -> CARDINAL
+ImageNet -> ORG
+2012 -> DATE
+5 -> CARDINAL
+recent years -> DATE
+6 -> CARDINAL
+7 -> DATE
+8 -> DATE
+9 -> CARDINAL
+10 -> DATE
+11 -> DATE
+12 -> CARDINAL
+36× -> CARDINAL
+84.4% -> PERCENT
+550 -> CARDINAL
+AmoebaNet -> ORG
+BLEU -> ORG
+128 -> CARDINAL
+Transformer -> ORG
+GPipe -> ORG
+GPipe -> ORG
+13 -> CARDINAL
+14 -> CARDINAL
+GPipe -> ORG
+first -> ORDINAL
+GPipe -> ORG
+GPipe -> ORG
+GPipe -> ORG
+AmoebaNet -> ORG
+480 -> CARDINAL
+480 -> CARDINAL
+ImageNet -> ORG
+2012 -> DATE
+557 million -> CARDINAL
+84.4% -> PERCENT
+128 -> CARDINAL
+6-billion -> MONEY
+Transformer -> ORG
+103 -> CARDINAL
+102 -> CARDINAL
+English -> LANGUAGE
+350-million -> QUANTITY
+15 -> CARDINAL
+100 -> CARDINAL
+2 -> CARDINAL
+GPipe -> ORG
+Lingvo -> NORP
+16 -> CARDINAL
+GPipe -> ORG
+17 -> CARDINAL
+18 -> DATE
+19 -> CARDINAL
+2 -> CARDINAL
+2 -> CARDINAL
+four -> CARDINAL
+F -> PRODUCT
+F -> PRODUCT
+k+1 k -> GPE
+2.1 -> CARDINAL
+L -> ORG
+the union of w -> ORG
+F -> PRODUCT
+F -> PRODUCT
+Σj -> PERSON
+GPipe -> ORG
+2.2 -> CARDINAL
+GPipe -> ORG
+GPipe -> ORG
+first -> ORDINAL
+K -> ORG
+M -> ORG
+2c -> CARDINAL
+20 -> CARDINAL
+21 -> CARDINAL
+3 -> CARDINAL
+AmoebaNet -> ORG
+GPipe -> ORG
+GPipe -> ORG
+Pipeline-k -> ORG
+GPipe -> ORG
+AmoebaNet -> ORG
+AmoebaNet -> ORG
+Transformer-L: Transformer -> ORG
+2048 -> DATE
+8192 -> DATE
+12 -> CARDINAL
+8 -> CARDINAL
+Pipeline-2 Pipeline-4 Pipeline-8
+ -> PERSON
+18 -> CARDINAL
+208 -> CARDINAL
+18 -> CARDINAL
+416 -> CARDINAL
+18 -> CARDINAL
+544 -> CARDINAL
+36 -> CARDINAL
+544 -> CARDINAL
+72 -> DATE
+512 -> CARDINAL
+# -> CARDINAL
+Model Parameters 82M 318M 542M 1.05B 1.8B -> ORG
+1.05 -> CARDINAL
+3.8GB 6.45GB -> PRODUCT
+12.53 -> CARDINAL
+24.62 -> CARDINAL
+8.11 -> CARDINAL
+15.21 -> CARDINAL
+26.24 -> CARDINAL
+16 -> CARDINAL
+# -> CARDINAL
+Model Parameters 282.2M 785.8M -> ORG
+11.7 -> CARDINAL
+8.8 -> CARDINAL
+59.5 -> CARDINAL
+235.1 -> CARDINAL
+3.15 -> CARDINAL
+6.4 -> CARDINAL
+50.9 -> CARDINAL
+199.9 -> CARDINAL
+2.3 -> CARDINAL
+GPipe -> ORG
+14 -> CARDINAL
+F -> PRODUCT
+N -> ORG
+K M M
+micro-batch -> ORG
+L -> ORG
+2c -> CARDINAL
+K−1 -> ORG
+GPipe -> ORG
+2c -> CARDINAL
+3 -> CARDINAL
+two -> CARDINAL
+12 -> CARDINAL
+Transformer -> ORG
+15 -> CARDINAL
+GPipe -> ORG
+Table 1 -> LAW
+AmoebaNet -> ORG
+Cloud TPUv2s -> PERSON
+8 -> CARDINAL
+224 -> CARDINAL
+128 -> CARDINAL
+GPipe -> ORG
+82M -> CARDINAL
+AmoebaNet -> ORG
+GPipe -> ORG
+6.26 -> CARDINAL
+3.46 -> CARDINAL
+318M -> CARDINAL
+AmoebaNet -> ORG
+1.8 billion -> CARDINAL
+8 -> CARDINAL
+25x -> CARDINAL
+4 -> CARDINAL
+GPipe -> ORG
+AmoebaNet -> ORG
+Transformer -> ORG
+Cloud -> PERSON
+16 -> CARDINAL
+32k -> DATE
+1024 -> DATE
+32 -> CARDINAL
+2048 -> CARDINAL
+8192 -> DATE
+32 -> CARDINAL
+2.7× -> DATE
+128 -> CARDINAL
+GPipe -> ORG
+Transformer -> ORG
+83.9B -> CARDINAL
+298× -> CARDINAL
+AmoebaNet -> ORG
+Transformer -> ORG
+AmoebaNet -> ORG
+18 -> CARDINAL
+256 -> CARDINAL
+GPipe -> ORG
+# of partitions -> MONEY
+# -> CARDINAL
+Table 2 -> PRODUCT
+linear -> ORG
+Transformer -> ORG
+K. Batch -> PERSON
+3.5× -> CARDINAL
+four -> CARDINAL
+TPU AmoebaNet Transformer
+Furthermore -> ORG
+2 4 -> CARDINAL
+1 1 -> CARDINAL
+1.26 -> CARDINAL
+1.72 -> CARDINAL
+3.2 -> CARDINAL
+AmoebaNet -> ORG
+32 -> CARDINAL
+1.21 -> DATE
+3.48 -> CARDINAL
+3.4 6.3 -> CARDINAL
+1 -> CARDINAL
+only one -> CARDINAL
+GPipe -> ORG
+NVLinks -> ORG
+32 -> DATE
+Table 3 -> LAW
+2.7× -> CARDINAL
+AmoebaNet -> ORG
+18 -> CARDINAL
+128 -> CARDINAL
+2 -> CARDINAL
+8 -> CARDINAL
+24 -> CARDINAL
+Transformer -> ORG
+3.3×. -> CARDINAL
+GPU AmoebaNet Transformer -> ORG
+GPipe -> ORG
+2 4 -> CARDINAL
+32 -> CARDINAL
+first -> ORDINAL
+GPipe -> ORG
+AmoebaNet -> ORG
+AmoebaNet -> ORG
+480 -> CARDINAL
+557 -> CARDINAL
+AmoebaNet-B(18 -> ORG
+512 -> CARDINAL
+ImageNet -> ORG
+2012 -> DATE
+12 -> CARDINAL
+4 -> CARDINAL
+84.4% -> PERCENT
+97% -> PERCENT
+22 -> CARDINAL
+23 -> CARDINAL
+ImageNet -> ORG
+5 -> CARDINAL
+AmoebaNet -> ORG
+18 -> CARDINAL
+512 -> CARDINAL
+ImageNet -> ORG
+5 -> CARDINAL
+Real et al -> PERSON
+12 -> CARDINAL
+Cubuk -> PERSON
+26 -> CARDINAL
+27 -> CARDINAL
+85.4% -> PERCENT
+Ngiam et al -> PERSON
+28 -> CARDINAL
+Dataset -> ORG
+# Train # -> MONEY
+1,281,167 50,000 -> CARDINAL
+84.4 83.9 -> PRODUCT
+12 -> CARDINAL
+26 -> CARDINAL
+50,000 10,000 -> CARDINAL
+26 -> CARDINAL
+Stanford -> ORG
+196 -> CARDINAL
+26 -> CARDINAL
+Oxford Pets -> ORG
+3,680 -> CARDINAL
+3,369 -> CARDINAL
+37 -> CARDINAL
+29 -> CARDINAL
+75,750 25,250 -> CARDINAL
+101 93.0 90.4∗ -> PRODUCT
+30 -> CARDINAL
+31 -> CARDINAL
+32 -> CARDINAL
+ImageNet -> ORG
+480 -> CARDINAL
+24 -> CARDINAL
+ImageNet -> ORG
+Table 4 -> DATE
+5 -> CARDINAL
+1% -> PERCENT
+8.7% -> PERCENT
+Kornblith et al -> PERSON
+25 -> CARDINAL
+ImageNet -> ORG
+5 -> CARDINAL
+GPipe -> ORG
+Natural Language
+Processing -> ORG
+NLP -> ORG
+NMT -> ORG
+NLP -> ORG
+33 -> CARDINAL
+15 -> DATE
+34 -> DATE
+35 -> DATE
+36 -> CARDINAL
+GPipe -> ORG
+NMT -> ORG
+102 -> CARDINAL
+English -> LANGUAGE
+25 billion -> CARDINAL
+104 -> CARDINAL
+109 -> CARDINAL
+37 -> CARDINAL
+first -> ORDINAL
+NMT -> ORG
+between more than 100 -> CARDINAL
+Transformer -> ORG
+15 -> CARDINAL
+two -> CARDINAL
+GPipe -> ORG
+Shazeer -> ORG
+34 -> CARDINAL
+400M -> CARDINAL
+Transformer Big -> PERSON
+6, 8192 -> DATE
+Chen et al -> PERSON
+35 -> CARDINAL
+64k -> CARDINAL
+3 -> CARDINAL
+24, 8192 -> DATE
+16 -> DATE
+12, 16384 -> DATE
+32 -> DATE
+3B- -> CARDINAL
+32, 16384 -> DATE
+32 -> DATE
+6B -> CARDINAL
+64, 16384 -> DATE
+32 -> DATE
+BERT2 -> NORP
+3 -> CARDINAL
+12, 16384 -> DATE
+32 -> DATE
+24, 8192 -> DATE
+32 -> DATE
+32, 16384 -> DATE
+32 -> DATE
+64, 16384 -> DATE
+32 -> DATE
+2 -> CARDINAL
+4 -> DATE
+8 -> DATE
+16 -> CARDINAL
+1 -> CARDINAL
+Transformer -> ORG
+1024 -> DATE
+2https://github.com/google-research/bert/blob/master/multilingual.md -> CARDINAL
+6 -> CARDINAL
+3 -> CARDINAL
+400 -> CARDINAL
+6B -> CARDINAL
+1.3B to 3B -> CARDINAL
+3 -> CARDINAL
+Transformer -> ORG
+400M
+params -> QUANTITY
+6, 8192 -> DATE
+16 -> DATE
+24, 8192 -> DATE
+16 -> CARDINAL
+64, 16384 -> DATE
+32 -> DATE
+Depth-Width Trade -> ORG
+1.3B -> CARDINAL
+12, 16384 -> DATE
+32 -> DATE
+1.3B -> CARDINAL
+24, 8192 -> DATE
+16 -> CARDINAL
+two -> CARDINAL
+3 -> CARDINAL
+3 -> CARDINAL
+400 -> CARDINAL
+a few thousand -> CARDINAL
+two -> CARDINAL
+Following Zhang -> PERSON
+38 -> CARDINAL
+two -> CARDINAL
+5 -> CARDINAL
+Batch Size -> PERSON
+Batch Size -> PERSON
+260 -> CARDINAL
+K 1M 4M
+40 -> ORG
+BLEU -> ORG
+30.92 31.86 32.71 -> CARDINAL
+NLL -> ORG
+2.58 -> CARDINAL
+2.46 -> CARDINAL
+260 -> CARDINAL
+7 -> CARDINAL
+8 -> CARDINAL
+4 -> CARDINAL
+BLEU -> ORG
+German -> NORP
+NMT -> ORG
+41 -> CARDINAL
+5 -> CARDINAL
+6 -> CARDINAL
+GPipe -> ORG
+42 -> CARDINAL
+43 -> DATE
+44 -> DATE
+45 -> CARDINAL
+Single Program Multiple Data -> ORG
+Mesh-Tensorflow -> ORG
+34 -> CARDINAL
+SPMD -> ORG
+the Single Instruction Multiple
+Data -> ORG
+AllReduce -> ORG
+SPMD -> ORG
+SPMD -> ORG
+46 -> CARDINAL
+47 -> CARDINAL
+48 -> CARDINAL
+49 -> CARDINAL
+PipeDream -> ORG
+GPipe -> ORG
+SPMD -> ORG
+GPipe -> ORG
+GPipe -> ORG
+3One -> CARDINAL
+8 -> CARDINAL
+BatchNorm -> ORG
+GPipe -> ORG
+three -> CARDINAL
+GPipe -> ORG
+1 -> CARDINAL
+GPipe -> ORG
+linear -> ORG
+2 -> CARDINAL
+GPipe -> ORG
+3 -> CARDINAL
+1 -> CARDINAL
+Bryan McCann -> PERSON
+James Bradbury -> PERSON
+Caiming Xiong -> PERSON
+Richard Socher -> PERSON
+CoRR -> ORG
+2017 -> DATE
+2 -> CARDINAL
+Matthew Peters -> PERSON
+Mark Neumann -> PERSON
+Mohit Iyyer -> PERSON
+Matt Gardner -> PERSON
+Christopher Clark -> PERSON
+Kenton Lee -> PERSON
+Luke Zettlemoyer -> PERSON
+ACL -> GPE
+2018 -> DATE
+3 -> CARDINAL
+Jacob Devlin -> PERSON
+Ming-Wei Chang -> PERSON
+Kenton Lee -> PERSON
+Kristina Toutanova -> PERSON
+Bert -> PERSON
+2018 -> DATE
+4 -> CARDINAL
+Jeff Wu -> PERSON
+Rewon Child -> PERSON
+David Luan -> PERSON
+Dario Amodei -> PERSON
+2019 -> DATE
+5 -> CARDINAL
+Jia Deng -> PERSON
+Wei Dong -> PERSON
+Richard Socher -> PERSON
+Li-Jia Li -> ORG
+Kai Li -> PERSON
+Li Fei-Fei -> PERSON
+IEEE -> ORG
+2009 -> DATE
+6 -> CARDINAL
+Christian Szegedy -> PERSON
+Wei Liu -> PERSON
+Yangqing Jia -> ORG
+Pierre Sermanet -> PERSON
+1–9, 2015 -> DATE
+7 -> CARDINAL
+Christian Szegedy -> PERSON
+Vincent Vanhoucke -> PERSON
+Sergey Ioffe -> PERSON
+Jon Shlens -> PERSON
+Zbigniew Wojna -> PERSON
+2818–2826, 2016 -> DATE
+8 -> CARDINAL
+Xiangyu Zhang -> PERSON
+Shaoqing Ren -> PERSON
+Jian Sun -> PERSON
+European -> NORP
+630–645 -> CARDINAL
+2016 -> DATE
+9 -> CARDINAL
+Saining Xie -> PERSON
+Ross Girshick -> PERSON
+Dollár -> PERSON
+Zhuowen Tu -> PERSON
+Kaiming -> PERSON
+2017 -> DATE
+10 -> CARDINAL
+Jie Hu -> PERSON
+Li Shen -> PERSON
+Gang Sun -> PERSON
+2018 -> DATE
+11 -> CARDINAL
+Barret Zoph -> PERSON
+Vijay Vasudevan -> PERSON
+Jonathon Shlens -> PERSON
+Quoc V Le -> ORG
+2018 -> DATE
+12 -> CARDINAL
+Alok Aggarwal -> PERSON
+Yanping Huang -> PERSON
+Quoc V Le -> PERSON
+2018 -> DATE
+13 -> CARDINAL
+Andrea Walther -> PERSON
+Algorithm 799: revolve -> PERSON
+Mathematical Software -> ORG
+TOMS -> ORG
+26(1):19–45 -> CARDINAL
+2000 -> DATE
+14 -> CARDINAL
+Bing Xu -> PERSON
+Chiyuan Zhang -> PERSON
+Carlos Guestrin -> PERSON
+2016 -> DATE
+15 -> CARDINAL
+Ashish -> NORP
+Noam Shazeer -> PERSON
+Niki Parmar -> ORG
+Jakob Uszkoreit -> PERSON
+Llion Jones -> ORG
+Aidan N Gomez -> PERSON
+Łukasz Kaiser -> PERSON
+Illia Polosukhin -> ORG
+Neurips -> GPE
+5998–6008 -> CARDINAL
+2017 -> DATE
+16 -> CARDINAL
+Jonathan Shen -> PERSON
+Patrick Nguyen -> PERSON
+Yonghui Wu -> PERSON
+Zhifeng Chen -> PERSON
+Mia Xu Chen -> PERSON
+Ye Jia -> PERSON
+Kannan -> GPE
+Tara Sainath -> PERSON
+Yuan Cao -> PERSON
+Chung-Cheng Chiu -> PERSON
+al -> PERSON
+2019 -> DATE
+9 -> CARDINAL
+17 -> CARDINAL
+Yangqing Jia -> WORK_OF_ART
+Evan Shelhamer -> PERSON
+Jeff Donahue -> PERSON
+Sergey Karayev -> PERSON
+Jonathan Long -> PERSON
+Ross Girshick -> PERSON
+Sergio Guadarrama -> PERSON
+Trevor Darrell -> PERSON
+Multimedia -> ORG
+675–678 -> CARDINAL
+ACM -> ORG
+2014 -> DATE
+18 -> CARDINAL
+Mu Li -> PERSON
+Yutian Li -> PERSON
+Min Lin -> PERSON
+Naiyan Wang -> PERSON
+Minjie Wang -> PERSON
+Tianjun Xiao -> PERSON
+Bing Xu -> PERSON
+Chiyuan Zhang -> PERSON
+Zheng Zhang -> PERSON
+2015 -> DATE
+19 -> CARDINAL
+Adam Paszke -> PERSON
+Sam Gross -> PERSON
+Soumith Chintala -> PERSON
+Gregory Chanan -> PERSON
+Edward Yang -> PERSON
+Zachary DeVito -> PERSON
+Zeming Lin -> PERSON
+Alban Desmaison -> PERSON
+Luca Antiga -> PERSON
+Adam Lerer -> PERSON
+2017 -> DATE
+20 -> CARDINAL
+Christian Szegedy -> PERSON
+2015 -> DATE
+21 -> CARDINAL
+Chao Peng -> PERSON
+Tete Xiao -> PERSON
+Zeming Li -> PERSON
+Yuning Jiang -> PERSON
+Xiangyu Zhang -> PERSON
+Kai Jia -> PERSON
+Gang Yu -> PERSON
+Jian
+Sun -> PERSON
+7, 2017 -> DATE
+22 -> CARDINAL
+Ali Sharif Razavian -> PERSON
+Hossein Azizpour -> PERSON
+Josephine Sullivan -> PERSON
+Stefan Carlsson -> PERSON
+Cnn -> ORG
+512–519 -> CARDINAL
+2014 -> DATE
+23 -> CARDINAL
+Evan Shelhamer -> PERSON
+Jonathan Long -> PERSON
+Trevor Darrell -> PERSON
+IEEE Trans -> ORG
+Mach -> PERSON
+Intell -> PERSON
+39(4):640–651 -> CARDINAL
+2017 -> DATE
+24 -> CARDINAL
+Graham W Taylor -> PERSON
+2017 -> DATE
+25 -> CARDINAL
+Simon Kornblith -> PERSON
+Jonathon Shlens -> PERSON
+Quoc V. Le -> PERSON
+CoRR -> ORG
+2018 -> DATE
+26 -> CARDINAL
+Ekin D Cubuk -> ORG
+Barret Zoph -> PERSON
+Dandelion Mane -> ORG
+Vijay Vasudevan -> PERSON
+Quoc V Le -> ORG
+2018 -> DATE
+27 -> CARDINAL
+Dhruv Mahajan -> PERSON
+Ross Girshick -> PERSON
+Vignesh Ramanathan -> PERSON
+Manohar Paluri -> PERSON
+Yixuan Li -> PERSON
+Ashwin Bharambe -> PERSON
+Laurens van der Maaten -> PERSON
+2018 -> DATE
+28 -> CARDINAL
+Jiquan Ngiam -> PERSON
+Daiyi Peng -> PERSON
+Vijay Vasudevan -> PERSON
+Simon Kornblith -> PERSON
+Quoc Le -> PERSON
+Ruoming Pang -> PERSON
+2018 -> DATE
+29 -> CARDINAL
+Yuxin Peng -> PERSON
+Xiangteng -> PERSON
+Junjie Zhao -> PERSON
+27(3):1487–1500 -> CARDINAL
+2018 -> DATE
+30 -> CARDINAL
+Yin Cui -> PERSON
+Yang Song -> PERSON
+Chen Sun -> PERSON
+Andrew Howard -> PERSON
+Serge Belongie -> PERSON
+2018 -> DATE
+31 -> CARDINAL
+Fisher Yu -> PERSON
+Dequan Wang -> PERSON
+Trevor Darrell -> PERSON
+2018 -> DATE
+32 -> CARDINAL
+Xiu-Shen Wei -> PERSON
+Chen-Wei Xie -> PERSON
+Jianxin Wu -> PERSON
+Chunhua Shen -> PERSON
+76:704–714 -> CARDINAL
+2018 -> DATE
+33 -> CARDINAL
+Jonas Gehring -> PERSON
+Michael Auli -> PERSON
+David Grangier -> PERSON
+Denis Yarats -> PERSON
+Yann N. Dauphin -> PERSON
+CoRR -> ORG
+abs/1705.03122, 2017 -> DATE
+34 -> CARDINAL
+Noam Shazeer -> PERSON
+Youlong Cheng -> PERSON
+Niki Parmar -> PERSON
+Dustin Tran -> PERSON
+Ashish Vaswani -> PERSON
+Penporn Koanan- -> ORG
+Peter Hawkins -> PERSON
+HyoukJoong Lee -> PERSON
+Mingsheng Hong -> PERSON
+Cliff Young -> PERSON
+Neurips -> GPE
+10414–10423, 2018 -> DATE
+35 -> CARDINAL
+Mia Xu Chen -> PERSON
+Orhan Firat -> PERSON
+Ankur Bapna -> PERSON
+Melvin Johnson -> PERSON
+Wolfgang Macherey -> PERSON
+George Foster -> PERSON
+Llion Jones -> ORG
+Niki Parmar -> ORG
+Mike Schuster -> PERSON
+Zhifeng Chen -> PERSON
+Yonghui Wu -> PERSON
+Macduff Hughes -> PERSON
+CoRR -> ORG
+2018 -> DATE
+36 -> CARDINAL
+Felix Wu -> PERSON
+Angela Fan -> PERSON
+Alexei Baevski -> PERSON
+Yann N. Dauphin -> PERSON
+Michael Auli -> PERSON
+CoRR -> ORG
+abs/1901.10430 -> GPE
+2019 -> DATE
+37 -> CARDINAL
+Naveen Arivazhagan -> PERSON
+Ankur Bapna -> PERSON
+Orhan Firat -> PERSON
+Dmitry Lepikhin -> PERSON
+Melvin Johnson -> PERSON
+Maxim
+Krikun -> PERSON
+Mia Xu Chen -> PERSON
+Yuan Cao -> PERSON
+George Foster -> PERSON
+Colin Cherry -> PERSON
+2019 -> DATE
+10 -> CARDINAL
+38 -> CARDINAL
+Hongyi Zhang -> PERSON
+Tengyu Ma -> PERSON
+Fixup -> ORG
+2019 -> DATE
+39 -> CARDINAL
+Nitish Keskar -> PERSON
+Jorge Nocedal -> PERSON
+Mikhail Smelyanskiy -> PERSON
+Ping T.P. Tang -> PERSON
+minima -> PRODUCT
+CoRR -> ORG
+2016 -> DATE
+40 -> CARDINAL
+Samuel L. Smith -> PERSON
+Pieter-Jan Kindermans -> DATE
+Quoc V. Le -> PERSON
+CoRR -> ORG
+abs/1711.00489 -> GPE
+2017 -> DATE
+41 -> CARDINAL
+Myle Ott -> PERSON
+Sergey Edunov -> PERSON
+David Grangier -> PERSON
+Michael Auli -> PERSON
+1–9 -> CARDINAL
+Belgium -> GPE
+Brussels -> GPE
+October 2018 -> DATE
+42 -> CARDINAL
+Alex Krizhevsky -> PERSON
+One -> CARDINAL
+arXiv:1404.5997, 2014 -> DATE
+43 -> CARDINAL
+Seunghak Lee -> PERSON
+Jin Kyu Kim -> PERSON
+Xun Zheng -> PERSON
+Qirong Ho -> PERSON
+Eric P Xing -> PERSON
+Neurips -> GPE
+2834–2842, 2014 -> DATE
+44 -> CARDINAL
+Hieu Pham -> PERSON
+Quoc V Le -> PERSON
+Benoit Steiner -> PERSON
+Rasmus Larsen -> PERSON
+Yuefeng Zhou -> PERSON
+Naveen Kumar -> PERSON
+Mohammad Norouzi -> PERSON
+Jeff Dean -> PERSON
+2017 -> DATE
+45 -> CARDINAL
+Jeffrey Dean -> PERSON
+Greg Corrado -> PERSON
+Rajat Monga -> PERSON
+Kai Chen -> PERSON
+Matthieu Devin -> PERSON
+Mark Mao -> PERSON
+Marc -> PERSON
+Ranzato -> PERSON
+Andrew Senior -> PERSON
+Paul Tucker -> PERSON
+Ke Yang -> PERSON
+Quoc V. Le -> PERSON
+Andrew Y. Ng -> PERSON
+F. Pereira -> GPE
+C. J. C. Burges -> PERSON
+L. Bottou -> PERSON
+K. Q. Weinberger -> PERSON
+Neurips 25 -> EVENT
+1223–1231 -> CARDINAL
+Curran Associates, Inc. -> ORG
+2012 -> DATE
+46 -> CARDINAL
+A. Petrowski -> PERSON
+G. Dreyfus -> PERSON
+C. Girault -> PERSON
+Neural Networks -> ORG
+4(6):970–981 -> DATE
+Nov 1993 -> DATE
+47 -> CARDINAL
+Yonghui Wu -> PERSON
+Mike Schuster -> PERSON
+Zhifeng Chen -> PERSON
+Quoc V Le -> PERSON
+Mohammad Norouzi -> PERSON
+Wolfgang
+Macherey -> PERSON
+Maxim Krikun -> PERSON
+Yuan Cao -> PERSON
+Qin Gao -> PERSON
+Klaus Macherey -> PERSON
+Google -> ORG
+the Association for Computational Linguistics -> ORG
+2017 -> DATE
+48 -> CARDINAL
+Aaron Harlap -> PERSON
+Deepak Narayanan -> PERSON
+Amar Phanishayee -> PERSON
+Vivek Seshadri -> PERSON
+Nikhil Devanur -> PERSON
+Greg
+Ganger -> PERSON
+Phil Gibbons -> PERSON
+2018 -> DATE
+49 -> CARDINAL
+Mu Li -> PERSON
+David G Andersen -> PERSON
+Jun Woo Park -> PERSON
+Alexander J Smola -> PERSON
+Amr Ahmed -> PERSON
+Vanja Josifovski -> PERSON
+James Long -> PERSON
+Eugene J Shekita -> PERSON
+Bor-Yiing Su -> ORG
+14 -> CARDINAL
+583–598, 2014 -> DATE
+11 -> CARDINAL
+matan-90.pdf -> CARDINAL
+4th -> ORDINAL
+USPS -> ORG
+Washington D.C. -> GPE
+1003-1011 -> DATE
+November 1990 -> DATE
+O. Matan -> GPE
+R. K. Kiang -> PERSON
+C. E. Stenard -> PERSON
+B. Boser -> PERSON
+J. S. Denker -> PERSON
+D. Henderson -> PERSON
+R. E. Howard -> PERSON
+W. Hubbard -> PERSON
+L. D. Jackel -> PERSON
+Y. Le Cun -> PERSON
+AT&T Bell Laboratories -> ORG
+Holmdel -> ORG
+N. J. 07733 -> PERSON
+1% -> PERCENT
+about 7% -> PERCENT
+handwritten zipcode -> PERSON
+the U.S. Postal
+Service -> ORG
+Accurate -> ORG
+Le Cun et al. -> PERSON
+1990 -> DATE
+2Z029929977225 100467 -> DATE
+THOVOPTOTSETTIZZI9PTRAISSIIO
+SSEOTSESIPSSS -> ORG
+E275 -> CARDINAL
+1 -> CARDINAL
+tens of thousands -> CARDINAL
+10 -> CARDINAL
+1 -> CARDINAL
+Rumelhart -> ORG
+Hinton -> PERSON
+Williams -> PERSON
+1986 -> DATE
+the U.S. Postal Service -> ORG
+1 -> CARDINAL
+16 -> CARDINAL
+16 -> CARDINAL
+1% -> PERCENT
+9% -> PERCENT
+20 -> CARDINAL
+20 -> CARDINAL
+1% -> PERCENT
+7% -> PERCENT
+Le Cun -> FAC
+al. -> PERSON
+1990 -> DATE
+two -> CARDINAL
+section 2 -> LAW
+two -> CARDINAL
+1 -> CARDINAL
+0.5% -> PERCENT
+1% and -> PERCENT
+2% -> PERCENT
+2711 -> CARDINAL
+2 -> CARDINAL
+Multi-Network Decisions -> ORG
+two -> CARDINAL
+one -> CARDINAL
+1 -> CARDINAL
+three -> CARDINAL
+16 -> CARDINAL
+16 -> CARDINAL
+1990 -> DATE
+three -> CARDINAL
+9298 -> DATE
+3349 -> DATE
+7291 -> CARDINAL
+2645 -> DATE
+2007 -> DATE
+704 -> CARDINAL
+1 -> CARDINAL
+two -> CARDINAL
+two -> CARDINAL
+0.5% -> PERCENT
+1% and -> PERCENT
+2% -> PERCENT
+2007 -> DATE
+ten -> CARDINAL
+eleven -> CARDINAL
+B+C -> GPE
+2 -> CARDINAL
+two -> CARDINAL
+one -> CARDINAL
+two -> CARDINAL
+VLSI neural -> ORG
+Jackel -> PERSON
+1990 -> DATE
+Graf -> GPE
+Henderson -> GPE
+1990 -> DATE
+One -> CARDINAL
+second -> ORDINAL
+first -> ORDINAL
+second -> ORDINAL
+1 -> CARDINAL
+only 14% percent -> PERCENT
+second -> ORDINAL
+1% and -> PERCENT
+2% -> PERCENT
+0.5% -> PERCENT
+39% -> PERCENT
+second -> ORDINAL
+3 -> CARDINAL
+Classification Probability Estimation -> ORG
+one -> CARDINAL
+eleven -> CARDINAL
+ten -> CARDINAL
+John Bridle -> PERSON
+N -> ORG
+Bridle -> PERSON
+1989 -> DATE
+Softmax -> PERSON
+1 -> CARDINAL
+Softmax -> PERSON
+Bridle -> PERSON
+1989 -> DATE
+Softmax -> PERSON
+680 -> CARDINAL
+80 -> CARDINAL
+two -> CARDINAL
+Softmax -> PERSON
+3 -> CARDINAL
+second -> ORDINAL
+Softmax -> PERSON
+2 -> CARDINAL
+Softmax -> PERSON
+90% -> PERCENT
+1 -> CARDINAL
+91 -> CARDINAL
+45 -> CARDINAL
+2 -> CARDINAL
+Softmax -> PERSON
+3.75,a -> CARDINAL
+5 -> CARDINAL
+3 -> CARDINAL
+second -> ORDINAL
+Softmax -> PERSON
+4 -> CARDINAL
+first -> ORDINAL
+8 -> CARDINAL
+1 -> CARDINAL
+12 3 -> DATE
+8 9 -> DATE
+3 -> CARDINAL
+Softmax -> PERSON
+second -> ORDINAL
+3.75,a -> CARDINAL
+5 -> CARDINAL
+two -> CARDINAL
+zipcode -> CARDINAL
+Denker -> ORG
+Le Cun -> PERSON
+1990 -> DATE
+first -> ORDINAL
+fed -> ORG
+two -> CARDINAL
+the US Postal Service -> ORG
+Henry Baird -> PERSON
+Rodolfo Milito -> PERSON
+1989 -> DATE
+Probabilistic Interpretation of Feedforward -> ORG
+Network Outputs -> ORG
+Fougelman-Soulie -> ORG
+Hérault -> GPE
+Neuro- -> ORG
+Springer-Verlag -> PERSON
+Denker -> PERSON
+J. S. -> PERSON
+Le Cun -> GPE
+Y. -> PERSON
+1990 -> DATE
+Graf -> GPE
+H. P. -> PERSON
+Henderson -> GPE
+D. -> NORP
+1990 -> DATE
+Jackel -> PERSON
+Graf -> GPE
+H. P. -> PERSON
+Boser -> PERSON
+Denker -> PERSON
+J. S. -> PERSON
+Le Cun -> GPE
+Y. -> PERSON
+Howard -> PERSON
+R. E. -> PERSON
+Baird -> PERSON
+1990 -> DATE
+Character Recognition Systems -> ORG
+Simon -> PERSON
+J. -> PERSON
+Bonas -> GPE
+France -> GPE
+1990 -> DATE
+Le Cun -> PERSON
+Y. -> GPE
+Boser -> PERSON
+Denker -> PERSON
+J. S. -> PERSON
+Henderson -> GPE
+D. -> NORP
+Howard -> PERSON
+R. E. -> PERSON
+Hubbard -> GPE
+Jackel -> PERSON
+L. D. -> PERSON
+Baird -> PERSON
+H. S. -> PERSON
+1990 -> DATE
+Multilayer Networks -> ORG
+10th -> ORDINAL
+International Conference on Pattern Recognition -> EVENT
+Atlantic
+City -> GPE
+NJ -> ORG
+1990 -> DATE
+IEEE Computer Society Press -> ORG
+Rumelhart -> PERSON
+D. E. -> PERSON
+Hinton -> GPE
+G. E. -> PERSON
+Williams -> PERSON
+R. J. -> PERSON
+1986 -> DATE
+Parallel -> PERSON
+318 -> CARDINAL
+Bradford Books -> ORG
+Cambridge -> GPE
+MA -> GPE
+NLP -> ORG
+one -> CARDINAL
+GloVe -> GPE
+LLM -> ORG
+LLM -> ORG
+CBOW -> ORG
+GloVe -> PERSON
+FastText -> ORG
+Language Models -> ORG
+BERT -> ORG
+Generative Pre-trained -> PERSON
+GPT -> ORG
+OpenAI -> ORG
+today -> DATE
+GPT -> ORG
+Sentence-BERT -> ORG
+BERT -> ORG
+FAQ -> ORG
+InferSent -> ORG
+max -> PERSON
+NLI -> ORG
+InferSent -> ORG
+Google -> ORG
+Deep Averaging Network -> WORK_OF_ART
+DAN -> ORG
+Generative Pre-trained -> PERSON
+Transformer 3 -> ORG
+BERT -> ORG
+Combined Approaches
+- Hybrid Models -> PERSON
+NLP -> ORG
+BERT -> ORG
+GPT-3 -> ORG
+LLM -> ORG
+hundreds to thousands -> CARDINAL
+non-zero -> NORP
+one -> CARDINAL
+zero -> CARDINAL
+Chatbots -> PERSON
+Legal and Compliance – Contract -> WORK_OF_ART
+RAG -> PERSON
+fed -> ORG
+AI Pipelines
+LLM Embeddings -> ORG
+AI -> GPE
+three -> CARDINAL
+AI -> GPE
+one -> CARDINAL
+LLM -> ORG
