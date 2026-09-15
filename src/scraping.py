@@ -4,7 +4,7 @@ import pytesseract
 from pdf2image import convert_from_path
 from pathlib import Path
 
-OUTPUT_FILE = Path("data/corpus.txt")
+OUTPUT_FILE = Path("data/processed/corpus.txt")
 OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
 
 
@@ -47,10 +47,10 @@ def append_to_corpus(content: str, source_name: str):
 
 
 if __name__ == "__main__":
-    pdf_text = extract_pdf_text("GpipePDF.pdf")
+    pdf_text = extract_pdf_text("data/raw/GpipePDF.pdf")
     append_to_corpus(pdf_text, "GpipePDF.pdf")
 
-    pdf_text = extract_pdf_text("matan-90.pdf")
+    pdf_text = extract_pdf_text("data/raw/matan-90.pdf")
     append_to_corpus(pdf_text, "matan-90.pdf")
 
     web_text = extract_web_text("https://www.iguazio.com/glossary/llm-embeddings/")

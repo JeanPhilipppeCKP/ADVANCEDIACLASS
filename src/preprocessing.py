@@ -132,8 +132,9 @@ def extract_entities_spacy(text: str) -> list[tuple[str, str]]:
 print("Terminé : 5 fichiers générés.")"""
 
 if __name__ == "__main__":
-    input_path = Path("data/corpus.txt")
+    input_path = Path("data/processed/corpus.txt")
     text = input_path.read_text(encoding="utf-8")
+    
 
     # spaCy limite nlp() à ~1M caractères par défaut (protection mémoire).
     # On augmente la limite si le corpus la dépasse.
@@ -149,13 +150,13 @@ if __name__ == "__main__":
     lemmatized_spacy = apply_lemmatization_spacy(text)
     entities = extract_entities_spacy(text)
 
-    Path("corpus_no_stopwords.txt").write_text(no_stopwords, encoding="utf-8")
-    Path("corpus_stemming.txt").write_text(stemmed, encoding="utf-8")
-    Path("corpus_lemmatization_nltk.txt").write_text(lemmatized_nltk, encoding="utf-8")
-    Path("corpus_lemmatization_spacy.txt").write_text(lemmatized_spacy, encoding="utf-8")
+    Path("data/processed/corpus_no_stopwords.txt").write_text(no_stopwords, encoding="utf-8")
+    Path("data/processed/corpus_stemming.txt").write_text(stemmed, encoding="utf-8")
+    Path("data/processed/corpus_lemmatization_nltk.txt").write_text(lemmatized_nltk, encoding="utf-8")
+    Path("data/processed/corpus_lemmatization_spacy.txt").write_text(lemmatized_spacy, encoding="utf-8")
 
     entities_output = "\n".join(f"{ent_text} -> {ent_label}" for ent_text, ent_label in entities)
-    Path("corpus_entities.txt").write_text(entities_output, encoding="utf-8")
+    Path("data/processed/corpus_entities.txt").write_text(entities_output, encoding="utf-8")
 
     print("Terminé : 5 fichiers générés.")
 
